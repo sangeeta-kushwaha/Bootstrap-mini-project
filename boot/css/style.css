@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 93vh;
+}
+.about_img {
+  min-width: 100%;
+  min-height: 280px;
+}
+
+.service {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+.service img {
+  width: 100%;
+  height: 100%;
+  padding: 1rem;
+}
+.serviceBtn {
+  text-align: center;
+  width: 100%;
+  max-width: 25%;
+  margin: auto;
+}
+footer {
+  padding-top: 0.25rem;
+  margin-bottom: 0;
+}
+/* responsive media query */
+
+/* // Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+  ...;
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  ...;
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  ...;
+}
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  ...;
+}
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) {
+  ...;
+} */
